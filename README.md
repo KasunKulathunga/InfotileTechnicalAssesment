@@ -1,10 +1,10 @@
-# DatennaTechincalAssesment
-Datenna - Technical Assessment
+# InfotileTechincalAssesment
+Infotile - Technical Assessment
 
 
-Run the helm char in the Kubernetes run the below command
+Run the helm char in Kubernetes run the below command
 
-helm install datenna--app-release ./my-flask-app-0.1.0.tgz
+helm install infotile--app-release ./my-flask-app-0.1.0.tgz
 
 
 
