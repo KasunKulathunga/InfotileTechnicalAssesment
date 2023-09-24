@@ -1,5 +1,5 @@
-# DatennaTechincalAssesment
-Datenna - Technical Assessment
+# InfotileTechincalAssesment
+Infotile - Technical Assessment
 
 
 Choose a CI/CD tool that you prefer (e.g., GitHub Actions, GitLab CI/CD, Jenkins) and create a CI/CD pipeline configuration file.
